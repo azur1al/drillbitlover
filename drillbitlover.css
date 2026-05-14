@@ -1,9 +1,7 @@
-/* WTF IS THIS FOR */
 * {
   box-sizing: border-box;
 }
 
-/* FONTS N SHIT */
 @font-face {
   font-family: Georgia;
   src: url(./fonts/5gramsofmicroplasticsinaweek.ttf);

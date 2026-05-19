@@ -1,24 +1,29 @@
+/* WTF IS THIS FOR */
 * {
   box-sizing: border-box;
 }
 
+/* FONTS N SHIT */
 @font-face {
   font-family: Georgia;
-  src: url(./fonts/5gramsofmicroplasticsinaweek.ttf);
+  src: url(/fonts/5gramsofmicroplasticsinaweek.ttf);
 }
 
 @font-face {
   font-family: 'Times New Roman';
-  src: url(./fonts/OldNewspaperTypes.ttf);
+  src: url(/fonts/OldNewspaperTypes.ttf);
 }
 
+/* THE LIKE BASE FOR STUFF */
+/* DONT MESS WITH THIS? I THINK */
+/* THE NORMAL FONT FOR THE POSTS IS IN HERE */
 body {
   font-family: 'Times New Roman';
   font-weight: normal;
   text-align: left;
   color:rgba(240, 240, 240, 0.8);
   padding: 20px;
-  background-image: url(./images/background.jpg);
+  background-image: url(/images/background.jpg);
   background-color: rgb(112, 136, 217);
   margin-left: 10%;
   margin-right: 10%;

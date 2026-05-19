@@ -1,9 +1,7 @@
-/* WTF IS THIS FOR */
 * {
   box-sizing: border-box;
 }
 
-/* FONTS N SHIT */
 @font-face {
   font-family: Georgia;
   src: url(./fonts/5gramsofmicroplasticsinaweek.ttf);
@@ -14,9 +12,6 @@
   src: url(./fonts/OldNewspaperTypes.ttf);
 }
 
-/* THE LIKE BASE FOR STUFF */
-/* DONT MESS WITH THIS? I THINK */
-/* THE NORMAL FONT FOR THE POSTS IS IN HERE */
 body {
   font-family: 'Times New Roman';
   font-weight: normal;
